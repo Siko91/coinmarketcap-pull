@@ -1,6 +1,7 @@
 import requests
 import json
 import matplotlib # pip install matplotlib
+import matplotlib.pyplot
 
 #   https://coinmarketcap.com/api/#endpoint_listings
 #   https://api.coinmarketcap.com/v2/listings/
